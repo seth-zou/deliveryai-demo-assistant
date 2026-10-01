@@ -91,3 +91,7 @@ http://localhost:5173/?preview=menu
 ```
 
 实际端口以 Vite 启动日志为准。
+
+## 开源协议
+
+本项目采用 [MIT License](LICENSE) 开源协议。详情请参阅仓库根目录的 `LICENSE` 文件。
