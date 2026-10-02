@@ -26,7 +26,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Run Factory droid-action
-        uses: Factory-AI/droid-action@main
+        uses: Factory-AI/droid-action@efd4574f8244f28cf1da43e7733fd36840ba2880 # v9
         with:
           factory_api_key: ${{ secrets.FACTORY_API_KEY }}
           automatic_review: true
