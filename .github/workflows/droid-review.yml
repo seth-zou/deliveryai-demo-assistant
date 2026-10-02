@@ -7,9 +7,6 @@ name: Droid Code Review
       - opened
       - synchronize
       - ready_for_review
-  push:
-    branches:
-      - "**"
   issue_comment:
     types:
       - created
